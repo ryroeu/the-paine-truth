@@ -39,7 +39,7 @@ Open [http://localhost:4000](http://localhost:4000). Add `--drafts --unpublished
 
 ## Hosting and DNS
 
-[Repository Pages settings](https://github.com/ryroeu/the-paine-truth/settings/pages) should publish from **Deploy from a branch**, `main`, `/ (root)`. GitHub supplies the production URL and base path from its Pages configuration. This keeps links and canonical metadata correct at the GitHub preview URL and at the custom domain.
+[Repository Pages settings](https://github.com/ryroeu/the-paine-truth/settings/pages) should publish from **Deploy from a branch**, `main`, `/ (root)`. The canonical origin in `_config.yml` is `https://thepainetruth.com`. GitHub supplies the base path from its Pages configuration.
 
 Use `thepainetruth.com` as the custom domain. GitHub’s [account Pages settings](https://github.com/settings/pages) can verify ownership with a TXT record in Route 53. Keep that TXT record after verification. Attach the custom domain to the repository before pointing web traffic at it.
 
