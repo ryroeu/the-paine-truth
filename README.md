@@ -5,7 +5,7 @@ An independent editorial journal built with Jekyll and served by GitHub Pages. T
 ## Publish an essay
 
 1. Open [Pages CMS](https://app.pagescms.org/) and sign in as `ryroeu`. On the first visit, install the Pages CMS GitHub App for **only** `the-paine-truth`. Open the repository on `main`; the editor reads `.pages.yml` automatically.
-2. Open **Essays** and create a new entry. Enter a headline, one-sentence standfirst, byline, date, and one or more subjects. Paste Markdown into **Essay and endnotes**. The suggested filename follows Jekyll’s date-and-slug convention. If you edit it, keep the form `YYYY-MM-DD-short-slug.md`.
+2. Open **Essays** and create a new entry. Enter a headline, one-sentence standfirst, byline, date, and one or more subjects. Paste Markdown into **Essay and endnotes**. On the first save, Pages CMS generates the filename from the publication date and headline.
 3. Once the copy and citations are ready, turn on **Publish to the website** and save. That commit triggers a GitHub Pages rebuild. Check the [deployment](https://github.com/ryroeu/the-paine-truth/actions) and open the new essay from the home page. Reopen an entry to edit it and save again. Keep the filename and publication date stable once published so existing links keep working.
 
 The **Publish to the website** switch controls whether an entry appears on the site. Every commit in this public repository is readable, including unpublished entries and their history. Keep private drafts and source material in a private editor or the ignored local `_drafts/` folder. Paste a private draft into Pages CMS only when it is ready to become public. A future date suppresses a post until a build runs on or after that date; saving it does not schedule a build.
