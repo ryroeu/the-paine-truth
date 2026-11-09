@@ -42,6 +42,7 @@ Gerry worried about secret-service money from European courts. Foreign governmen
 
 ### Power has Moved 
 The framers reserved the strictest test for the president because that was where they saw the greatest danger. Since then a great deal of power has passed to federal judges with life tenure, to cabinet secretaries and to committee chairmen. The Constitution already half-admits this: a naturalized Secretary of State is skipped in the line of presidential succession. If birth matters enough to bar a secretary from inheriting the office, it is fair to ask why it does not matter for the post he holds.
+
 Britain offers a caution about divided authority, though it must be stated accurately. Sharia councils there have no legal force and Parliament has adopted no religious law. Yet a government-commissioned review in 2018 found many Muslim women relying on those councils because their religious marriages were never registered under civil law, which left them without recourse to the courts. That did not happen because of who sits in Parliament. It happened because the state never required those marriages to be registered, and so never insisted on one civil law for everyone. The lesson for America is narrow but real: questions of allegiance are far easier to settle with a clear rule at the door than to untangle afterward.
 
 ## The Amendment
