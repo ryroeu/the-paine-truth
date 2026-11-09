@@ -179,8 +179,8 @@ h1 { overflow-wrap: anywhere; }
 .page-heading .deck, .essay-heading .deck { max-width: 45ch; }
 .empty-page { background: var(--panel); max-width: 44rem; padding: 1.35rem; font-size: 1.15rem; }
 .empty-page .text-link { display: inline-block; margin-top: 0.6rem; }
-.archive-group, .subject-group { max-width: 46rem; margin-bottom: 2rem; }
-.archive-group h2, .subject-group h2 { font-size: 1.95rem; margin-bottom: 0.3rem; }
+.archive-group, .subject-group { --group-heading-size: 1.95rem; max-width: 46rem; margin-bottom: 2rem; }
+.archive-group h2, .subject-group h2 { font-size: var(--group-heading-size); margin-bottom: 0.3rem; }
 .subject-index { margin-bottom: 2rem; }
 .subject-index a { display: inline-flex; align-items: center; min-height: 2.75rem; font: 650 0.86rem/1.4 var(--sans); }
 .subject-group { padding-top: 1.2rem; border-top: 1px solid var(--rule); }
@@ -190,6 +190,7 @@ h1 { overflow-wrap: anywhere; }
 .post-list li { border-bottom: 1px solid var(--rule); }
 .post-entry { padding: 1.05rem 0 1.2rem; }
 .post-entry h3 { font-size: clamp(1.4rem, 3vw, 1.85rem); margin: 0.3rem 0; }
+.subject-group .post-entry h3 { font-size: calc(var(--group-heading-size) * 0.75); }
 .post-entry h3 a { color: var(--ink); text-decoration: none; }
 .post-entry h3 a:hover { color: var(--accent); text-decoration: underline; }
 .post-meta span { padding-inline: 0.2rem; }
