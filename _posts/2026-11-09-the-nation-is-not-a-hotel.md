@@ -52,11 +52,12 @@ Its Social Democrats concluded that a generous welfare state and an open door ca
 
 ### Defining the Case
 That is what hardness means, and it is all it needs to mean. A state serious about its survival should:
-• Control entry absolutely. Asylum claims processed outside the territory; no settlement for those who enter illegally; removal of failed claimants within weeks rather than years.
-• Deport foreign nationals who commit serious crimes, without the decade of appeals.
-• Make citizenship the end of assimilation, not a substitute for it — language, employment, a clean record and a long probation first.
-• Dissolve parallel institutions. One law, for everyone, with no informal tribunal standing between a woman and the courts; no foreign-state funding of religious institutions.
-• Play the politics without flinching. Renegotiate or leave treaty arrangements that make enforcement impossible. Expect to be called names. Do it anyway.
+
+- Control entry absolutely. Asylum claims processed outside the territory; no settlement for those who enter illegally; removal of failed claimants within weeks rather than years.
+- Deport foreign nationals who commit serious crimes, without the decade of appeals.
+- Make citizenship the end of assimilation, not a substitute for it — language, employment, a clean record and a long probation first.
+- Dissolve parallel institutions. One law, for everyone, with no informal tribunal standing between a woman and the courts; no foreign-state funding of religious institutions.
+- Play the politics without flinching. Renegotiate or leave treaty arrangements that make enforcement impossible. Expect to be called names. Do it anyway.
 
 Note what is not on this list. Nothing here touches the rights of citizens, whatever their origin, and nothing here licenses cruelty to individuals. The brutality required is brutality toward our own illusions — and it is the only alternative to something worse. When lawful governments refuse to enforce borders, the demand for enforcement does not disappear. It goes looking for someone less scrupulous. Every riot, every vigilante, every extremist party in Europe is a monument to a moderate who would not act.
 
@@ -64,12 +65,13 @@ Note what is not on this list. Nothing here touches the rights of citizens, what
 Athens rationed citizenship and endured. Egypt and Lebanon let the ground shift under their institutions and paid in blood. Rome flourished while it made Romans and fell after it stopped trying. The lesson is not that foreigners are enemies. It is that belonging is real, that it takes time, that it has a carrying capacity — and that a nation which will not defend the terms of its own membership is not being generous. It is merely being late.
 
 ## Sources
-• Brå: Registered offenders among persons of native and non-native background (2021)
-• The Local: Denmark cut asylum figures to historic low in 2025
-• KVIA/CNN: Denmark's parallel societies policy
-• IPS: Denmark's March 2026 election result
-• UK Home Office: Independent review into the application of sharia law in England and Wales (2018)
-• Erasmus University: Marie and Pinotti on immigration and crime
-• Brookings: Immigration and crime in the US, Europe and Japan
-• Uppsala University: fiscal winners and losers from EU immigration
-• Historical material (Pericles' citizenship law, Aristotle Politics V.3, the Hyksos and Libyan dynasties, the Gothic settlement of 376–382, Lebanon's National Pact) is from standard reference history, not the links above — check dates against a source you trust before publishing.
+
+- Brå: Registered offenders among persons of native and non-native background (2021)
+- The Local: Denmark cut asylum figures to historic low in 2025
+- KVIA/CNN: Denmark's parallel societies policy
+- IPS: Denmark's March 2026 election result
+- UK Home Office: Independent review into the application of sharia law in England and Wales (2018)
+- Erasmus University: Marie and Pinotti on immigration and crime
+- Brookings: Immigration and crime in the US, Europe and Japan
+- Uppsala University: fiscal winners and losers from EU immigration
+- Historical material (Pericles' citizenship law, Aristotle Politics V.3, the Hyksos and Libyan dynasties, the Gothic settlement of 376–382, Lebanon's National Pact) is from standard reference history, not the links above — check dates against a source you trust before publishing.
