@@ -32,23 +32,25 @@ Lebanon is not legend. Its constitutional settlement of 1943 divided power among
 ## Europe Now
 None of this is ancient history to anyone who has watched western Europe since 2015.
 
-Parallel Societies: 
+### Parallel Societies
 Denmark's government — a Social Democratic one — uses that phrase in statute, for housing estates where most residents are of non-Western background and the usual indicators of work, schooling and crime have all gone wrong. Sweden, which for decades prided itself on being the world's humanitarian conscience, now has a gang-violence problem its own prime ministers of both left and right have tied to failed integration.
 
-Crime: 
+### Crime
 Sweden's National Council for Crime Prevention found that between 2007 and 2018 the foreign-born were two and a half times as likely as Swedes with two Swedish-born parents to be registered as crime suspects. The figure for those born in Sweden to two foreign-born parents was higher still — just over three times. That second number is the one that should end the complacency. The promise was always that the children would be Swedes. Where people arrive without the language or skills an advanced economy rewards, are housed together, and are supported indefinitely outside the labour market, the second generation does not converge. It diverges. This is not a claim about the character of any people. It is a claim about what happens when a state imports large numbers it has no plan to employ or assimilate.
 
-Religious Law: 
+### Religious Law
 England and Wales have somewhere between 30 and 85 sharia councils — no one, including the government, knows the number. They have no legal authority, and defenders stress this. But the government's own independent review found women being treated in ways no British court would tolerate, in a system many of them felt unable to avoid. A parallel legal order does not need statutory force. It needs only a community in which leaving it costs more than obeying it. Alongside it has come an unofficial blasphemy code enforced by intimidation: a teacher in Batley still in hiding years after showing a cartoon in a religious-studies lesson; a teacher in France, Samuel Paty, beheaded for the same.
 
-Politics: 
+### Politics
 In a democracy, numbers are power — that is the system working as designed, and no one should resent citizens for voting. The danger is what kind of politics large unassimilated blocs make rational. In 2015 an English election court removed the mayor of Tower Hamlets for corrupt and illegal practices, including the use of religious authority to direct votes. In 2024 a handful of MPs entered Parliament on a platform defined by a war two thousand miles away. Parties learn quickly. When votes can be gathered by community rather than by argument, politicians stop addressing citizens and start negotiating with intermediaries. That is Lebanon's road, not Britain's.
 
 ## The Case for Hardness
 Why has so little been done? Because every effective measure is one that respectable opinion calls cruel, and Western governments have preferred being thought kind to being effective.
 
-Denmark chose otherwise. Its Social Democrats concluded that a generous welfare state and an open door cannot coexist, and acted on it: temporary rather than permanent protection, return as the stated goal, family reunification restricted, citizenship made hard to earn, and estates dominated by parallel societies broken up by law. They were denounced across Europe. Through November 2025 Denmark had granted asylum to 839 people — a historic low — and half the continent's centre-left is now quietly copying the policies it once condemned.
+### Denmark Chose Otherwise 
+Its Social Democrats concluded that a generous welfare state and an open door cannot coexist, and acted on it: temporary rather than permanent protection, return as the stated goal, family reunification restricted, citizenship made hard to earn, and estates dominated by parallel societies broken up by law. They were denounced across Europe. Through November 2025 Denmark had granted asylum to 839 people — a historic low — and half the continent's centre-left is now quietly copying the policies it once condemned.
 
+### Defining the Case
 That is what hardness means, and it is all it needs to mean. A state serious about its survival should:
 • Control entry absolutely. Asylum claims processed outside the territory; no settlement for those who enter illegally; removal of failed claimants within weeks rather than years.
 • Deport foreign nationals who commit serious crimes, without the decade of appeals.
