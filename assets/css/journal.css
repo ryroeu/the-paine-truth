@@ -1,11 +1,11 @@
 :root {
-  color-scheme: light;
-  --paper: #f8f4eb;
-  --panel: #f0e9db;
-  --ink: #25221f;
-  --muted: #5e554b;
-  --accent: #782d37;
-  --rule: #c9bdac;
+  color-scheme: dark;
+  --paper: #1d1a19;
+  --panel: #2a2422;
+  --ink: #e7ded2;
+  --muted: #c3b4a7;
+  --accent: #e1a09d;
+  --rule: #5a4c45;
   --serif: Georgia, "Times New Roman", serif;
   --sans: system-ui, sans-serif;
 }

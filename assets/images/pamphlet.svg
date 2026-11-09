@@ -1,53 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300">
   <defs>
     <pattern id="grain" width="8" height="9" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="2" r=".42" fill="#715b49" opacity=".27"/>
-      <circle cx="6" cy="7" r=".32" fill="#715b49" opacity=".24"/>
+      <circle cx="1" cy="2" r=".42" fill="#b09075" opacity=".27"/>
+      <circle cx="6" cy="7" r=".32" fill="#b09075" opacity=".24"/>
     </pattern>
     <pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(32)">
-      <path d="M0 0v4" stroke="#694c3d" stroke-width=".6" opacity=".55"/>
+      <path d="M0 0v4" stroke="#ad8b72" stroke-width=".6" opacity=".55"/>
     </pattern>
-    <g id="rules" fill="none" stroke="#785f4c" stroke-width=".75" stroke-linecap="round">
+    <g id="rules" fill="none" stroke="#af9178" stroke-width=".75" stroke-linecap="round">
       <path d="M0 0h41m-41 4h38m-38 4h42m-42 4h39m-39 4h41m-41 4h40m-40 4h36m-36 4h41m-41 4h39m-39 4h41m-41 4h37m-37 4h39m-39 4h28"/>
     </g>
   </defs>
-  <path fill="#eee2ce" d="M0 0h480v300H0z"/>
+  <path fill="#2b231f" d="M0 0h480v300H0z"/>
   <path fill="url(#grain)" d="M0 0h480v300H0z"/>
-  <g fill="none" stroke="#8d7764">
+  <g fill="none" stroke="#806b5a">
     <rect x="13.5" y="13.5" width="453" height="273" stroke-width=".7"/>
     <path d="M19 28v-9h9m424 0h9v9m0 244v9h-9m-424 0h-9v-9" stroke-width="1.1"/>
     <path d="M76 232c72-28 196-46 315-22M89 239c57-21 141-35 228-33m-211 38c45-17 121-29 192-30m-156 31c35-11 90-20 128-22m25-3c42-4 72-3 100 1" opacity=".34"/>
   </g>
   <path d="M110 224 282 267 398 215 339 151 146 165Z" fill="url(#hatch)" opacity=".5"/>
   <g transform="translate(280 150) rotate(13)">
-    <path d="M-72-93H77v184H-72z" fill="#d7c3a9" stroke="#795e4a" stroke-width="1.2"/>
-    <path d="M-74-97H76V87H-74z" fill="#e9dbc4" stroke="#795e4a" stroke-width="1"/>
-    <path d="M-78-101H71V83H-78z" fill="#f2e5cf" stroke="#795e4a" stroke-width="1.2"/>
-    <path d="M-69-90H61V73H-69z" fill="url(#grain)" stroke="#8c725b" stroke-width=".55"/>
-    <path d="M-56-70H49m-105 5H49m-105 66H49m-105 7H49" stroke="#82664d" stroke-width=".75"/>
+    <path d="M-72-93H77v184H-72z" fill="#3a2e27" stroke="#a18268" stroke-width="1.2"/>
+    <path d="M-74-97H76V87H-74z" fill="#47382d" stroke="#a18268" stroke-width="1"/>
+    <path d="M-78-101H71V83H-78z" fill="#49392e" stroke="#a18268" stroke-width="1.2"/>
+    <path d="M-69-90H61V73H-69z" fill="url(#grain)" stroke="#9d8068" stroke-width=".55"/>
+    <path d="M-56-70H49m-105 5H49m-105 66H49m-105 7H49" stroke="#a9896e" stroke-width=".75"/>
     <use href="#rules" x="-53" y="-49"/><use href="#rules" x="3" y="-49"/>
     <use href="#rules" x="-53" y="16"/><use href="#rules" x="3" y="16"/>
   </g>
   <g transform="translate(211 147) rotate(-13)">
-    <path d="M-75-98H74V104H-75z" fill="#c8b197" stroke="#6e523e" stroke-width="1.1"/>
-    <path d="M-78-101H71V101H-78z" fill="#e4d2b7" stroke="#6e523e" stroke-width=".8"/>
-    <path d="M-80-104H68V98H-80z" fill="#f4e8d2" stroke="#634735" stroke-width="1.25"/>
+    <path d="M-75-98H74V104H-75z" fill="#372b24" stroke="#ad8b6f" stroke-width="1.1"/>
+    <path d="M-78-101H71V101H-78z" fill="#44342a" stroke="#ad8b6f" stroke-width=".8"/>
+    <path d="M-80-104H68V98H-80z" fill="#4b392e" stroke="#b99679" stroke-width="1.25"/>
     <path d="M-80-104H68V98H-80z" fill="url(#grain)"/>
-    <path d="M-72-96H60V90H-72z" fill="none" stroke="#916b50" stroke-width=".7"/>
-    <path d="M-68-92H56V86H-68z" fill="none" stroke="#916b50" stroke-width=".55"/>
-    <g text-anchor="middle" fill="#53392e" font-family="Georgia, serif">
+    <path d="M-72-96H60V90H-72z" fill="none" stroke="#af8d70" stroke-width=".7"/>
+    <path d="M-68-92H56V86H-68z" fill="none" stroke="#af8d70" stroke-width=".55"/>
+    <g text-anchor="middle" fill="#ebcfac" font-family="Georgia, serif">
       <text x="-6" y="-69" font-size="6.5" letter-spacing="1.55">A PAMPHLET</text>
       <text x="-6" y="-36" font-size="21" letter-spacing="1.2">COMMON</text>
       <text x="-6" y="-12" font-size="24" letter-spacing="3">SENSE</text>
       <text x="-6" y="59" font-size="7.5" letter-spacing="1.3">THOMAS PAINE</text>
     </g>
-    <path d="M-54-57H42m-96 53H42m-89 74h82m-54 4H7" stroke="#815745" stroke-width=".8"/>
-    <g fill="none" stroke="#815745" stroke-width="1">
+    <path d="M-54-57H42m-96 53H42m-89 74h82m-54 4H7" stroke="#c3a083" stroke-width=".8"/>
+    <g fill="none" stroke="#c3a083" stroke-width="1">
       <path d="M-6 12v24m-28-12h56m-39 0c3-6 8-9 11-9 5 0 9 5 12 9-3 5-8 8-12 8-4 0-8-4-11-8Z"/>
       <path d="M-24 20c-5-5-11-3-12 2 0 4 6 6 12 3m36-5c5-5 11-3 12 2 0 4-6 6-12 3"/>
-      <circle cx="-6" cy="24" r="2.5" fill="#815745"/>
+      <circle cx="-6" cy="24" r="2.5" fill="#c3a083"/>
     </g>
   </g>
-  <path d="M57 57h29m-14.5-14.5v29m321 158h29m-14.5-14.5v29" stroke="#8a6552" stroke-width=".7" opacity=".8"/>
-  <path d="M71.5 52l5 5-5 5-5-5Zm336 172l5 5-5 5-5-5Z" fill="#782d37"/>
+  <path d="M57 57h29m-14.5-14.5v29m321 158h29m-14.5-14.5v29" stroke="#a98b73" stroke-width=".7" opacity=".8"/>
+  <path d="M71.5 52l5 5-5 5-5-5Zm336 172l5 5-5 5-5-5Z" fill="#e1a09d"/>
 </svg>
