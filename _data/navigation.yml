@@ -1,0 +1,8 @@
+- label: Home
+  url: /
+- label: Archive
+  url: /archive/
+- label: Categories
+  url: /categories/
+- label: About
+  url: /about/

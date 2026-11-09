@@ -1,0 +1,32 @@
+---
+layout: page
+title: Categories
+kicker: The reading room
+description: Browse the journal by subject.
+permalink: /categories/
+---
+{% assign configured = site.data.subjects | map: "name" %}
+<nav aria-label="Subjects" class="subject-index">
+  <ul>
+    {% for subject in site.data.subjects %}
+      <li><a href="#{{ subject.name | slugify }}">{{ subject.name | escape }}</a></li>
+    {% endfor %}
+    {% for group in site.categories %}
+      {% unless configured contains group[0] %}
+        <li><a href="#{{ group[0] | slugify }}">{{ group[0] | escape }}</a></li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</nav>
+{% for subject in site.data.subjects %}
+  {% assign name = subject.name %}
+  {% assign posts = site.categories[name] %}
+  {% include subject-section.html name=name description=subject.description posts=posts %}
+{% endfor %}
+{% for group in site.categories %}
+  {% unless configured contains group[0] %}
+    {% assign name = group[0] %}
+    {% assign posts = group[1] %}
+    {% include subject-section.html name=name posts=posts %}
+  {% endunless %}
+{% endfor %}

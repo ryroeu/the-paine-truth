@@ -1,0 +1,59 @@
+media:
+  input: assets/uploads
+  output: /assets/uploads
+content:
+  - name: essays
+    label: Essays
+    type: collection
+    path: _posts
+    format: yaml-frontmatter
+    subfolders: false
+    exclude: [".gitkeep"]
+    filename:
+      template: "{year}-{month}-{day}-{title}.md"
+      field: create
+    view:
+      primary: title
+      fields: [title, date, published]
+      sort: date
+      order: desc
+    fields:
+      - name: title
+        label: Headline
+        type: string
+        required: true
+      - name: description
+        label: Standfirst
+        description: A sentence for the article page, the archive, and search results.
+        type: text
+        required: true
+      - name: author
+        label: Byline
+        type: string
+        required: true
+      - name: date
+        label: Publication date
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+      - name: categories
+        label: Subjects
+        type: select
+        required: true
+        options:
+          multiple: true
+          min: 1
+          values: [History, Civic Life, Political Thought]
+      - name: published
+        label: Publish to the website
+        description: Switch on when ready to publish. This repository is public, so write private drafts elsewhere.
+        type: boolean
+        default: false
+      - name: body
+        label: Essay and endnotes
+        description: "Write in Markdown. Use [^1] in the text and [^1]: at the start of the corresponding note."
+        type: code
+        required: true
+        options:
+          format: markdown

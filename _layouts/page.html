@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<header class="page-heading">
+  <p class="label section-label"><span aria-hidden="true"></span>{{ page.kicker | default: 'The journal' | escape }}</p>
+  <h1>{{ page.title | escape }}</h1>
+  {% if page.description %}<p class="deck">{{ page.description | escape }}</p>{% endif %}
+</header>
+{{ content }}

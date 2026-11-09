@@ -1,0 +1,14 @@
+<ul class="post-list">
+  {% for post in include.posts limit:include.limit %}
+    <li>
+      <article class="post-entry">
+        <p class="label post-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+          {% if post.categories.first %}<span aria-hidden="true">·</span> {{ post.categories.first | escape }}{% endif %}
+        </p>
+        <{{ include.heading }}><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></{{ include.heading }}>
+        {% if post.description %}<p>{{ post.description | escape }}</p>{% endif %}
+      </article>
+    </li>
+  {% endfor %}
+</ul>

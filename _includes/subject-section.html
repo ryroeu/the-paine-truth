@@ -1,0 +1,9 @@
+<section class="subject-group" aria-labelledby="{{ include.name | slugify }}">
+  <h2 id="{{ include.name | slugify }}">{{ include.name | escape }}</h2>
+  {% if include.description %}<p class="subject-description">{{ include.description | escape }}</p>{% endif %}
+  {% if include.posts.size > 0 %}
+    {% include post-list.html posts=include.posts heading="h3" %}
+  {% else %}
+    <p class="empty-subject">No essays in this category yet.</p>
+  {% endif %}
+</section>

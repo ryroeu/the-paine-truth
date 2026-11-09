@@ -1,0 +1,25 @@
+title: The Paine Truth
+description: An independent journal of history, civic life, and political thought.
+lang: en
+timezone: Europe/Paris
+markdown: kramdown
+kramdown:
+  input: GFM
+  footnote_backlink: "&#8617;"
+permalink: /essays/:year/:month/:day/:title/
+future: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: essay
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - docs
+  - vendor
