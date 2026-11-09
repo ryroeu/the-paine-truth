@@ -1,7 +1,7 @@
 ---
 title: The Nation Is Not a Hotel
 description: Why a country that cannot say who belongs will not long remain a country.
-author: and that is The Paine Truth
+author: thepainetruth
 date: 2026-11-09
 categories:
   - Political Thought
