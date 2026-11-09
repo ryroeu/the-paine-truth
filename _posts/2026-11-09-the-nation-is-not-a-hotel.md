@@ -7,7 +7,9 @@ categories:
   - Political Thought
 published: true
 ---
+## Introduction
 A nation is not a patch of ground with an economy on it. It is a people who share enough — language, law, memory, manners — that they will pay taxes for strangers, obey verdicts they dislike, and, in the last extremity, fight for one another. That shared feeling is the scarcest resource a state possesses. The fourteenth-century historian Ibn Khaldun called it asabiyyah, group solidarity, and built a whole theory of history on a single observation: dynasties rise while it is strong and fall when it is spent.
+
 For two generations the governing classes of the West have behaved as though this resource were infinite. They have admitted newcomers at a pace and on terms that no earlier society would have thought prudent, and they have treated anyone who objected as a moral defective. Many people now call the result an invasion. The word is wrong in one respect — no army crossed the frontier; our own governments held the door — and that is precisely the indictment. This was not done to us. We did it, and we can stop doing it.
 
 ## What the Ancients Knew
