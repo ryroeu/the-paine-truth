@@ -1,6 +1,10 @@
 title: The Paine Truth
 url: https://thepainetruth.com
 description: An independent journal of history, civic life, and political thought.
+logo: /assets/images/the-paine-truth-logo.png
+twitter:
+  username: the_paine_truth
+  card: summary
 lang: en
 timezone: Europe/Paris
 markdown: kramdown
@@ -13,6 +17,14 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/images/the-paine-truth-logo.png
+        width: 1024
+        height: 1024
+        alt: The Paine Truth logo
   - scope:
       path: ""
       type: posts
