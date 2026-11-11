@@ -50,6 +50,7 @@ Khomeini's clerical network supplied the mosques, the crowds and the martyrs. It
 - Women. Secular professionals and religious conservatives marched together. Some unveiled women put on the chador as a badge of protest against the Shah.
 
 The secular groups did not drift into Khomeini's camp by accident. They chose it. Shortly before the uprising, Tudeh leader Noureddin Kianouri declared that the party fully backed the Ayatollah's initiatives, including his plan for a referendum on an Islamic republic. The parties of the left then supported that referendum in March.
+
 Their reasoning ran in a straight line. The main enemy was the Shah and the United States behind him. Khomeini was the Shah's most effective enemy. Therefore Khomeini was, for now, on the right side of history. The clerics were assumed to be a passing force: old men who could rouse a crowd but could never run a modern state. Once the monarchy fell, the real contest would begin, and the organised, educated left expected to win it.
 
 ## What He Said, and What He had Written
